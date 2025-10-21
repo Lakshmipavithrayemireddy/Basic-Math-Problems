@@ -6,3 +6,6 @@
 
 # LAST DIGIT IN A NUMBER
 <img width="1404" height="460" alt="image" src="https://github.com/user-attachments/assets/b19ed704-54ab-4612-94ec-19fd066e6719" />
+
+# FIRST DIGIT
+<img width="1236" height="435" alt="image" src="https://github.com/user-attachments/assets/d878cc43-086d-43d0-8687-656ab4dbe9d3" />
