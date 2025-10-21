@@ -9,3 +9,4 @@
 
 # FIRST DIGIT
 <img width="1236" height="435" alt="image" src="https://github.com/user-attachments/assets/d878cc43-086d-43d0-8687-656ab4dbe9d3" />
+<img width="1478" height="433" alt="image" src="https://github.com/user-attachments/assets/b9bdb0df-ef56-4c58-872e-1ef2f50b8d1b" />
